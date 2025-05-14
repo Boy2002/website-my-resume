@@ -1,0 +1,36 @@
+{
+  "Nav": {
+    "nav1": "About Me",
+    "nav2": "Skill",
+    "nav3": "Projects"
+  },
+  "HomePage": {
+    "hi":"Hello!",
+
+    "title": "Welcome to my universe.",
+
+    "about": "Go to the about page",
+
+    "who":"Who am I?",
+    "whodetail1": "I wasn't born with privilege, but I began with courage.",
+    "whodetail2": "I don't wait to be understood — I build what the world can't ignore.",
+
+    "cardtitle1": "About Me",
+    "carddetail1": "Hi, I’m Boy. I graduated with a Bachelor’s degree in Information Technology from Maejo University, Chiang Mai, with a GPA of 3.30.",
+    "cardtitle2": "Skills",
+    "carddetail2-1": "Frontend",
+    "carddetail2_1": "Node.js, Next.js, Angular, React, ...",
+    "carddetail2-2": "Backend",
+    "carddetail2_2": "Java, Node.js, Express.js, ...",
+    "cardtitle3": "Projects",
+    "carddetail3-1": "IT Cooperative Education Website (Maejo University)",
+    "carddetail3-2": "IT Service Request Management System",
+    "carddetail3-3": "Sales Task Tracking & Management System",
+
+    "subcard":"shortly",
+
+    "more": "Read More"
+
+
+  }
+}
